@@ -6,7 +6,20 @@
         <item name="android:textColor">@color/black</item>
         <item name="android:actionButtonStyle">@style/ToolbarIconStyle</item>
         <item name="actionButtonStyle">@style/ToolbarIconStyle</item>
+        <item name="android:fontFamily">@font/mainfonts</item>
+        <item name="android:letterSpacing">0.2</item>
+
+
     </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">@font/mainfonts</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.2</item>
+
+
+    </style>
+
     <style name="ToolbarIconStyle" parent="Widget.AppCompat.ActionButton">
         <item name="android:minWidth">30dp</item>
         <item name="android:maxWidth">48dp</item>

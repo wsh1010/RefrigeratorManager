@@ -9,4 +9,10 @@
         <item>과일</item>
         <item>냉동식품</item>
     </string-array>
+    <string-array name="dateUnit">
+        <item>일</item>
+        <item>주</item>
+        <item>월</item>
+        <item>년</item>
+    </string-array>
 </resources>

@@ -29,12 +29,13 @@
 
     <ImageView
         android:id="@+id/myRefrigerator"
-        android:layout_width="350dp"
+        android:layout_width="250dp"
         android:layout_height="500dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="16dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
 
     <ImageButton
         android:id="@+id/addItemButton"

@@ -15,7 +15,7 @@
                 android:height="40dp"/>
         </shape>
     </item>
-    <item android:drawable="@drawable/ic_baseline_check_24"
+    <item android:drawable="@drawable/ic_baseline_next_plan_24"
         android:gravity="center"
         android:width="25dp"
         android:height="25dp"/>
